@@ -1,0 +1,49 @@
+19:40:29.957 [restartedMain] INFO  c.e.s.SpringbootAppApplication - Starting SpringbootAppApplication using Java 17.0.5 with PID 14788 (C:\Users\KyThuat88\Desktop\SpringbootApp\target\classes started by KyThuat88 in C:\Users\KyThuat88\Desktop\SpringbootApp)
+19:40:29.965 [restartedMain] INFO  c.e.s.SpringbootAppApplication - No active profile set, falling back to 1 default profile: "default"
+19:40:30.157 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+19:40:30.158 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+19:40:33.218 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+19:40:33.257 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+19:40:33.263 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+19:40:33.264 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.18]
+19:40:33.410 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+19:40:33.410 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3249 ms
+19:40:34.359 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+19:40:34.418 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+19:40:34.464 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+19:40:34.504 [restartedMain] INFO  c.e.s.SpringbootAppApplication - Started SpringbootAppApplication in 5.83 seconds (process running for 9.728)
+19:41:17.104 [http-nio-8080-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+19:41:17.106 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+19:41:17.108 [http-nio-8080-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+19:41:17.287 [http-nio-8080-exec-2] INFO  c.example.springbootapp.Controller - Start to get all data Student with id Minh
+19:41:17.287 [http-nio-8080-exec-2] INFO  c.example.springbootapp.Controller - Start to get all data Student with name Minte
+19:41:17.289 [http-nio-8080-exec-2] INFO  c.example.springbootapp.Controller - Retrieve data successful student Student{id='Minh', name='Minte'}
+20:02:52.553 [http-nio-8080-exec-5] INFO  c.example.springbootapp.Controller - Start to get all data Student with id Minh
+20:02:52.554 [http-nio-8080-exec-5] INFO  c.example.springbootapp.Controller - Start to get all data Student with name Minte
+20:02:52.555 [http-nio-8080-exec-5] INFO  c.example.springbootapp.Controller - Retrieve data successful student Student{id='Minh', name='Minte'}
+20:02:53.715 [http-nio-8080-exec-7] INFO  c.example.springbootapp.Controller - Start to get all data Student with id Minh
+20:02:53.715 [http-nio-8080-exec-7] INFO  c.example.springbootapp.Controller - Start to get all data Student with name Minte
+20:02:53.715 [http-nio-8080-exec-7] INFO  c.example.springbootapp.Controller - Retrieve data successful student Student{id='Minh', name='Minte'}
+20:02:54.925 [http-nio-8080-exec-8] INFO  c.example.springbootapp.Controller - Start to get all data Student with id Minh
+20:02:54.926 [http-nio-8080-exec-8] INFO  c.example.springbootapp.Controller - Start to get all data Student with name Minte
+20:02:54.926 [http-nio-8080-exec-8] INFO  c.example.springbootapp.Controller - Retrieve data successful student Student{id='Minh', name='Minte'}
+19:55:13.629 [restartedMain] INFO  c.e.s.SpringbootAppApplication - Starting SpringbootAppApplication using Java 17.0.5 with PID 10916 (C:\Users\KyThuat88\Desktop\SpringbootApp\target\classes started by KyThuat88 in C:\Users\KyThuat88\Desktop\SpringbootApp)
+19:55:13.641 [restartedMain] INFO  c.e.s.SpringbootAppApplication - No active profile set, falling back to 1 default profile: "default"
+19:55:13.846 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+19:55:13.847 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+19:55:16.886 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+19:55:16.912 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+19:55:16.917 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+19:55:16.918 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.18]
+19:55:17.072 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+19:55:17.073 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3223 ms
+19:55:18.015 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+19:55:18.062 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+19:55:18.096 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path ''
+19:55:18.110 [restartedMain] INFO  c.e.s.SpringbootAppApplication - Started SpringbootAppApplication in 5.442 seconds (process running for 10.567)
+20:04:27.069 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+20:04:27.069 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+20:04:27.071 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+20:05:23.654 [http-nio-8080-exec-4] INFO  c.example.springbootapp.Controller - Start to get all data Student with id Minh
+20:05:23.655 [http-nio-8080-exec-4] INFO  c.example.springbootapp.Controller - Start to get all data Student with name Minte
+20:05:23.656 [http-nio-8080-exec-4] INFO  c.example.springbootapp.Controller - Retrieve data successful student Student{id='Minh', name='Minte'}
